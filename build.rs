@@ -25,7 +25,7 @@ fn main() {
         .args(&[
             "reset",
             "--hard",
-            "36726f76a13fd0c3416a3cb2b2b323a101c00f2a",
+            "208d653e872b29234bbd4a5fef6dec403f3dfdbd",
         ])
         .current_dir(&ultralight_dir)
         .status()
